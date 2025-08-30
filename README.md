@@ -74,3 +74,8 @@ IBM Watsonx AI for the language models
 LangChain for the RAG framework
 Gradio for the web interface
 The open-source community for various tools and libraries
+
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](<img width="1918" height="870" alt="Image" src="https://github.com/user-attachments/assets/d141f6ad-23e8-4de9-a752-4dac41e649ae" />)

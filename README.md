@@ -24,23 +24,6 @@ Prerequisites
 Python 3.8 or higher
 IBM Watsonx AI account and API credentials
 
-Installation
-
-Clone the repository:
-bashgit clone https://github.com/yourusername/rag-pdf-chatbot.git
-cd rag-pdf-chatbot
-
-Install dependencies:
-bashpip install -r requirements.txt
-
-Set up environment variables (optional):
-bashexport WATSONX_APIKEY="your_api_key_here"
-
-Run the application:
-bashpython app.py
-
-Open your browser and go to http://localhost:7860
-
 ## Usage
 
 Upload a PDF: Click on the file upload area and select a PDF document
